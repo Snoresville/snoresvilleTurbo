@@ -1,0 +1,40 @@
+----------< Plague Doctor >----------
+Crit Effect:
+Crits now also cure bleed and blights from the Plague Doctor
+In addition, the Plague Doctor heals 10 HP and 7 Stress from itself.
+
+Noxious Blast:
+Can now be used from any rank and can target an enemy in all ranks.
+
+Plague Grenade:
+Can now be used from any rank and can affect all enemies in every rank.
+
+Blinding Gas:
+Can now be used from any rank and can affect all enemies in every rank.
+Is not considered a stalling ability.
+Stun Chance | 100/110/120/130/140% -> 125/135/145/155/165%
+
+Incision:
+Bleed DoT | 2/2/3/3/4 -> 3/3/4/4/5
+Plague Doctor gains Riposte that lasts for the duration of the battle.
+Deals 50% extra damage to targets affected by blight.
+
+Battlefield Medicine:
+Healing | 1-1/1-2/2-2/2-3/3-3 -> 1-2/2-4/3-6/4-8/5-10
+Can now be used from any rank and can heal the entire party.
+Cures stun.
+Is not considered a stalling ability.
+
+Emboldening Vapours:
+Has no battle limit.
+Affects the entire party.
+
+Disorienting Blast:
+Can now be used from any rank and can affect all enemies in every rank.
+Is not considered a stalling ability.
+
+Riposte Effect:
+Has a 140% chance to cause a 5 Bleed DoT.
+Has a 140% chance to reduce blight resistance by 33%
+Has a 140% chance to cause a 7 Blight DoT
+Deala 50% extra damage to targets affected by blight.
