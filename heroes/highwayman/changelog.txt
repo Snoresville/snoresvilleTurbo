@@ -1,0 +1,56 @@
+----------< Highwayman >----------
+Crit Effect:
+Crits now also have a 140% chance to reduce bleed resistance by 33%. 
+Crits now also have a 140% chance to cause a 10-DoT Bleed that lasts 3 rounds.
+In addition, the Highwayman heals 10 HP and 7 Stress from itself.
+
+Wicked Slice:
+Damage | 15/15/15/15/15% -> 15/30/60/120/240%
+
+Pistol Shot:
+Can now be used in all ranks to attack an enemy in any rank.
+Accuracy | 85/90/95/100/105 -> 100/150/200/250/300
+Damage | -15/-15/-15/-15/-15% -> 0/0/0/0/0%
+Crit Chance | 7.5/8.5/9.5/10.5/11.5% -> 10/11/12/13/14%
+Shots now mark for the duration of the battle.
+Damage Modifier vs. Marked Targets | 25/30/35/40/50% -> 50/60/70/80/100%
+Crit Chance is increased by 9/10/11/12/13% whenever Pistol Shot is used on marked targets.
+
+Point Blank Shot:
+Accuracy | 95/100/105/110/115 -> 1000/1000/1000/1000/1000
+Damage | 50/50/50/50/50% -> 200/400/600/800/1000%
+Crit Chance | 5/6/7/8/9% -> 20/40/60/80/100%
+Self Movement | Backward 1 -> Backward 3
+Push Chance | 100/110/120/130/140% -> 200/200/200/200/200%
+Push Movement | Push 1 -> Push 3
+
+Grapeshot Blast:
+Can now be used in all ranks, and damages all enemies.
+Accuracy | 75/80/85/90/95 -> 90/105/120/135/150
+Damage | -50/-50/-50/-50/-50% -> -25/-25/-25/-25/-25
+Targets affected by Marked will receive an additional 50/60/70/80/100% more damage, with crit chance increased by 9/10/11/12/13% on that attack.
+
+Take Aim:
+No battle limit.
+Can now be used at all ranks and hits all targets.
+Due to multi-targeting, the buff received is multiplied based on enemy party size.
+
+Duelist's Advance:
+Now can target the 4th enemy rank.
+Self Movement | Forward 1 -> Forward 3
+Riposte Duration | 3 Rounds -> 1 Battle
+
+Opened Vein:
+Damage | -15/-15/-15/-15/-15% -> 0/0/0/0/0%
+Opened Vein now can cause three additional bleed instances on top of its current instance:
+1/1/2/2/3 DoT Bleed with 100/110/120/130/140% chance
+3/3/4/4/5 DoT Bleed with 100/110/120/130/140% Chance
+0/0/6/8/10 DoT Bleed with 0/0/100/120/140% Chance
+Opened Vein deals an additional 50% damage against bleeding targets.
+
+Riposte Effect:
+Accuracy | 85 -> 200
+Deals 50% extra damage to bleeding targets.
+Debuffs bleed resistance by 33%
+Targets affected by Marked will receive an additional 50/60/70/80/100% more damage, with crit chance increased by 9/10/11/12/13% on that attack.
+Has a 100/110/120/130/140% Chance to cause a 3/3/4/4/5 DoT Bleed.

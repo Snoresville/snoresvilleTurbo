@@ -24,8 +24,11 @@ No battle limit.
 No longer counts as a stalling skill.
 Now moves the Crusader all the way to the first rank.
 Adds the Riposte effect on the Crusader that lasts for the duration of the battle.
-(Testing Effect) Guards the rest of the party from targeted skills for 3 turns.
-Due to the ability targetting the entire party, Torch level can be restored by 24/48/72/96 depending on party size.
+Now allows the Crusader to guard the rest of the party from targeted skills for 3 turns.
+-
+Due to the ability targetting the entire party, buffs are multiplied due to party size: 
+Torch level can be restored by 24/48/72/96.
+Protection (Damage Reduction) is increased by 20/40/60/80% .
 
 Battle Heal:
 No longer counts as a stalling skill.
