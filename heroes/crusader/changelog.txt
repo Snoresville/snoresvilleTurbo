@@ -1,4 +1,4 @@
-Changes to Crusader
+----------< Crusader >----------
 Crit Effect:
 Crits now also have a 165% chance to stun targets.
 In addition, the Crusader heals 10 HP and 7 Stress from itself.
