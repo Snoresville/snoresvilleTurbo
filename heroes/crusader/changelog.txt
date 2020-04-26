@@ -1,0 +1,51 @@
+Changes to Crusader
+Crit Effect:
+Crits now also have a 165% chance to stun targets.
+In addition, the Crusader heals 10 HP and 7 Stress from itself.
+
+Smite:
+Now also deals 15/20/25/30/35% bonus damage to Eldritch, Beast, and Man type enemies.
+Deals 50/60/70/80/100% bonus damage and has an increased 9/10/11/12/13% chance to crit when targeted marked enemies.
+Accuracy | 85/90/95/100/105 -> 100/125/150/175/200
+
+Zealous Accusation:
+The Crusader can now use this skill at all ranks, and hits all targets at once.
+Damage | -40/-40/-40/-40/-40% -> -35/-20/-5/10/25%
+Crit Chance | -4/-3/-2/-1/0% -> 0/1/2/3/4%
+
+Stunning Blow:
+Stunning Blow now hits enemies in all ranks at once.
+Has a 100/110/120/130/140% chance per enemy to reduce Dodge by 10/12/15/17/20 and Speed by 2/3/4/5/6
+Deals 25/33/40/50/60% bonus damage to stunned enemies. 
+(Untested whether it will apply bonus damage to targets that get stunned by Stunning Blow or Crit.)
+
+Bulwark of Faith
+No battle limit.
+No longer counts as a stalling skill.
+Now moves the Crusader all the way to the first rank.
+Adds the Riposte effect on the Crusader that lasts for the duration of the battle.
+(Testing Effect) Guards the rest of the party from targeted skills for 3 turns.
+Due to the ability targetting the entire party, Torch level can be restored by 24/48/72/96 depending on party size.
+
+Battle Heal:
+No longer counts as a stalling skill.
+Healing | 2-3/3-3/3-4/4-5/5-6 -> 4/8/12/16/20
+Now simultaneously heals the entire party.
+
+Holy Lance:
+Now also deals 15/20/25/30/35% bonus damage to Eldritch, Beast, and Man type enemies.
+Deals 50/60/70/80/100% bonus damage and has an increased 9/10/11/12/13% chance to crit when targeted marked enemies.
+Can now also use Holy Lance from 2nd rank.
+Holy Lance now hits enemies in all ranks at once.
+Self Movement | Forward 1 -> Forward 3
+
+Inspiring Cry:
+No longer counts as a stalling skill.
+Now simultaneously targets entire party.
+Healing | 1-1/1-1/1-2/1-2/2-2 -> 1/2/3/4/5
+Stress Heal | 5/5/6/7/8 -> 8/9/10/11/12
+Clears stun from affected targets.
+No longer increases torch level.
+
+Riposte Effect:
+Crusader will attack any attacking enemies while under the Riposte effect with Level 5 Smite.
