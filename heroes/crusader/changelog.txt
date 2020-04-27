@@ -1,7 +1,7 @@
 ----------< Crusader >----------
 Crit Effect:
 Crits now also have a 165% chance to stun targets.
-In addition, the Crusader heals 10 HP and 7 Stress from itself.
+In addition, the Crusader heals 10 HP and 7 Stress.
 
 Smite:
 Now also deals 15/20/25/30/35% bonus damage to Eldritch, Beast, and Man type enemies.

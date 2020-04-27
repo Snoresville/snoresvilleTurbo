@@ -2,7 +2,7 @@
 Crit Effect:
 Crits now also have a 140% chance to reduce bleed resistance by 33%. 
 Crits now also have a 140% chance to cause a 10-DoT Bleed that lasts 3 rounds.
-In addition, the Highwayman heals 10 HP and 7 Stress from itself.
+In addition, the Highwayman heals 10 HP and 7 Stress.
 
 Wicked Slice:
 Damage | 15/15/15/15/15% -> 15/30/60/120/240%

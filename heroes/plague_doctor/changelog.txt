@@ -1,7 +1,7 @@
 ----------< Plague Doctor >----------
 Crit Effect:
 Crits now also cure bleed and blights from the Plague Doctor
-In addition, the Plague Doctor heals 10 HP and 7 Stress from itself.
+In addition, the Plague Doctor heals 10 HP and 7 Stress.
 
 Noxious Blast:
 Can now be used from any rank and can target an enemy in all ranks.

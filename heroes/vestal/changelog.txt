@@ -1,0 +1,47 @@
+----------< Vestal >----------
+Crit Effect:
+Crits now also cure bleed and blight from self and have a 170% chance to decrease protection by 30%.
+In addition, the Vestal heals 10 HP and 7 Stress.
+
+Mace Bash:
+Crit Chance | 0/1/2/3/4% -> 100/100/100/100/100%
+
+Judgement:
+Usable from any rank. Targets all enemies.
+Self Heal | 3/3/4/4/5 -> 6/7/8/9/10
+Interaction between multi-hit and self heal. For each enemy hit, an instance of self-heal occurs.
+Has a 100/110/120/130/140% chance to stun.
+
+Dazzling Light:
+Damage | -75/-75/-75/-75/-75 -> 0/0/0/0/0
+Ignores (but does not remove) stealth.
+
+Divine Grace:
+Healing | 4-5/5-6/6-7/7-8/8-9 -> 5/10/15/20/25
+Now heals 8/9/10/11/12 stress.
+Cures bleed and blight from target.
+Removes stun and marked.
+Can now be casted from rank 1 and 2.
+Does not count as a stalling ability.
+
+God's Comfort:
+Healing | 1-3/2-3/3-3/3-4/4-5 -> 3/4/5/6/7
+Can now be casted from rank 1.
+Now heals 5/5/6/7/8 stress.
+Removes stun.
+Does not count as a stalling ability.
+
+God's Illumination:
+Skill now targets all enemies simultaneously.
+Can now crit.
+Can now be used from rank 4.
+Vestal gains Riposte for the duration of the battle.
+
+God's Hand:
+Vestal gains the following buffs until the end of combat.
+Accuracy | 10/11/12/13/15
+Damage | 25/27/30/32/35%
+Crit Chance | 7/8/9/10/11%
+
+Riposte Effect:
+Vestal will attack any attacking enemies while under the Riposte effect with Level 5 Judgement.
