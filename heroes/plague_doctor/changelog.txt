@@ -5,14 +5,25 @@ In addition, the Plague Doctor heals 10 HP and 7 Stress.
 
 Noxious Blast:
 Can now be used from any rank and can target an enemy in all ranks.
+Noxious Blast now can cause three additional bleed instances on top of its current instance:
+1/1/2/2/3 DoT Blight with 100%/110%/120%/130%/140%
+2/2/3/3/4 DoT Blight with 100%/110%/120%/130%/140%
+3/3/4/4/5 DoT Blight with 100%/110%/120%/130%/140%
+0/0/4/6/10 DoT Blight with 0/0/150%/150%/150%
+Noxious Blast deals an additional 50% damage against blighted targets.
 
 Plague Grenade:
 Can now be used from any rank and can affect all enemies in every rank.
+Damage | -90/-90/-90/-90/-90% -> -90/-80/-70/-60/-50%
+Now has Minor Bleed(Cuz fragmentation bruh):
+1/1/2/2/3 DoT Bleed with 100%/110%/120%/130%/140%
 
 Blinding Gas:
 Can now be used from any rank and can affect all enemies in every rank.
+Now has Minor Blight:
+1/1/2/2/3 DoT Blight with 100%/110%/120%/130%/140%
 Is not considered a stalling ability.
-Stun Chance | 100/110/120/130/140% -> 125/135/145/155/165%
+
 
 Incision:
 Bleed DoT | 2/2/3/3/4 -> 3/3/4/4/5
@@ -31,6 +42,7 @@ Affects the entire party.
 
 Disorienting Blast:
 Can now be used from any rank and can affect all enemies in every rank.
+Stun Chance | 100/110/120/130/140% -> 110/120/130/140/150%
 Is not considered a stalling ability.
 
 Riposte Effect:
