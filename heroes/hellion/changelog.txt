@@ -1,0 +1,42 @@
+----------< Hellion >----------
+Removed exhaust from the skills
+Crit Effect:
+Crits now increase accuracy by 10, damage by 30% and cures the bleed and blight.
+In addition, the Hellion heals 10 HP and 7 Stress.
+
+Wicked Hack:
+Damage | 0/0/0/0/0% -> 30/60/90/120/150%
+
+Iron Swan:
+Can now be used in all ranks
+Accuracy | 85/90/95/100/105% -> 110/120/130/140/150%
+
+Barbaric Yawp:
+Now targets enemies in all ranks.
+No battle limit
+
+If It Bleeds:
+Can now target all enemies in all ranks.
+Damage | -35/-35/-35/-35/-35% -> 0/0/0/0/0%
+If It Bleeds deals an additional 500% damage against bleeding targets.
+
+Breakthrough:
+Now targets enemies in all ranks.
+Adds the Riposte effect on the Hellion that lasts for the duration of the battle.
+Damage |  -50/-50/-50/-50/-50% -> 0/0/0/0/0%
+
+Adrenaline Rush:
+Now gives 1/2/3/4/5 speed.
+With the power of friendship, Hellion's damage buff,speed and health gain increases dependent on party size.
+
+Bleed Out:
+Accuracy | 85/90/95/100/105% -> 1000/1000/1000/1000/1000%
+Damage | 20/20/20/20/20% -> 100/100/100/100/100%
+Crit Chance | 6/7/8/9/10% -> 10/20/30/40/50%
+Can now cause bleed 6 more time
+
+Move Skill:
+Movement | 0-1 -> 0-4
+
+Riposte Effect:
+Vestal will attack any attacking enemies while under the Riposte effect with Level 5 Wicked Hack.
