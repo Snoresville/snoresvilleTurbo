@@ -7,3 +7,5 @@ Currently, these are the classes that have been modded:
 - Crusader
 - Highwayman
 - Plague Doctor
+- Vestal
+- Leper

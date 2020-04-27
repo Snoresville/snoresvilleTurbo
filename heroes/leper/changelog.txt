@@ -1,0 +1,45 @@
+----------< Leper >----------
+Crit Effect:
+Crits now increase accuracy by 15, damage by 35%, and crit chance by 11%.
+In addition, the Leper heals 10 HP and 7 Stress.
+
+Chop:
+Damage | 0/0/0/0/0% -> 10/20/30/40/50%
+Now moves the Leper forward one rank.
+
+Hew:
+Now targets enemies in all ranks.
+Now moves the Leper forward one rank.
+
+Purge:
+Can now target all enemies in all ranks.
+Now moves the Leper forward one rank.
+
+Revenge:
+With the power of friendship, the Leper gains multiples of the buff and debuff dependent on party size.
+Now moves the Leper forward one rank.
+Gains Riposte that lasts until the end of the battle.
+Now also grants 5 Accuracy (Buff can be multiplied by party size).
+
+Withstand:
+With the power of friendship, the Leper gains multiples of the protection buff dependent on party size.
+Now moves the Leper forward one rank.
+Gains Riposte that lasts until the end of the battle.
+
+Solemnity:
+With the power of friendship, Leper's stress heal and health gain increases dependent on party size.
+Now moves the Leper forward one rank.
+
+Intimidate:
+Now targets all enemies.
+Now moves the Leper forward one rank.
+Leper no longer marks itself with Intimidate.
+
+Move Skill:
+Movement | 0-1 -> 0-4
+
+Riposte Effect:
+Leper buffs Accuracy by 15, Damage by 35%, and Crit Chance bt 11%.
+Heals 10 HP and 7 Stress.
+Removes Blight and Bleed from self.
+
