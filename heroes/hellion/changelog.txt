@@ -39,4 +39,4 @@ Move Skill:
 Movement | 0-1 -> 0-4
 
 Riposte Effect:
-Vestal will attack any attacking enemies while under the Riposte effect with Level 5 Wicked Hack.
+Hellion will attack any attacking enemies while under the Riposte effect with Level 5 Wicked Hack.

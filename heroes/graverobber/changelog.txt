@@ -1,7 +1,7 @@
-----------< Graverobber >----------
+----------< Grave Robber >----------
 Crit Effect:
 Crits now also give bonus crit chance
-In addition, the Crusader heals 10 HP and 7 Stress.
+In addition, the Grave Robber heals 10 HP and 7 Stress.
 
 Pick to the Face:
 Can now cause Prot debuff
@@ -12,14 +12,15 @@ Accuracy | 90/95/100/105/110 -> 100/125/150/175/200
 
 Lunge:
 Now can target the 4th enemy rank.
-Adds the Riposte effect on the Hellion that lasts for the duration of the battle.
+Adds the Riposte effect on the Grave Robber that lasts for the duration of the battle.
 
 Flashing Daggers:
 Can now be used from any rank and can affect all enemies in every rank.
 Damage | -33/-33/-33/-33/-33% -> 0/0/0/0/0%
 
 Shadow Fade:
-With the power of friendship, Graverobber's crit, damage buff and speed gain increases dependent on party size.
+With the power of friendship, Grave Robber's crit, damage buff and speed gain increases dependent on party size.
+Now stealths the entire party for two rounds.
 
 Thrown Dagger:
 Now can target the 1st enemy rank.
