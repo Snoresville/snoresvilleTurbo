@@ -1,0 +1,28 @@
+----------< Arbalest >----------
+
+Crit Effect:
+In addition, the Hellion heals 10 HP and 7 Stress.
+
+Sniper Shot 
+
+
+
+Suppressing Fire: 
+Now targets enemies in all ranks.
+Accuracy | 95/100/105/110/115% -> 100/110/120/130/140%
+Damage | -80/-80/-80/-80/-80% -> -50/-30/-10/10/30%
+
+Sniper's Mark 
+Now marks all enemies
+Mark duration | 3 Rounds -> 1 Battle
+
+Bola 
+
+
+Blindfire 
+
+
+Battlefield Bandage 
+
+
+Rallying Flare 
