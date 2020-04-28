@@ -33,11 +33,10 @@ Moves the Arbalest back one rank.
 
 Battlefield Bondage: 
 Cure Blight/Bleed
-Healing | 2-3 3-3 3-4 4-4 4-5 ->  
+Healing | 2-3 3-3 3-4 4-4 4-5 ->  4/6/8/10/12
 Now heals 8/9/10/11/12 stress.
 Now gives 5/6/7/8/10 ACC
 Now gives 20/22/24/26/30% DMG
-
 
 Rallying Flare: 
 Now has 110/120/130/140/150% chance to stun
