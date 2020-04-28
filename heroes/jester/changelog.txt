@@ -7,7 +7,7 @@ NOTE: Finale Buff will occur per every enemy hit by your skills.
 
 Crit Effect:
 Crits now increase Finale Damage by 75% and Finale Crit Chance by 8%
-In addition, the Hellion heals 10 HP and 7 Stress.
+In addition, the Jester heals 10 HP and 7 Stress.
 
 Dirk Stab:
 Damage | 0/0/0/0/0% -> 0/25/50/75/100%
