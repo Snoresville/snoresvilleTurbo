@@ -22,8 +22,6 @@ Blinding Gas:
 Can now be used from any rank and can affect all enemies in every rank.
 Now has Minor Blight:
 1/1/2/2/3 DoT Blight with 100%/110%/120%/130%/140%
-Is not considered a stalling ability.
-
 
 Incision:
 Bleed DoT | 2/2/3/3/4 -> 3/3/4/4/5
@@ -34,7 +32,6 @@ Battlefield Medicine:
 Healing | 1-1/1-2/2-2/2-3/3-3 -> 1-2/2-4/3-6/4-8/5-10
 Can now be used from any rank and can heal the entire party.
 Cures stun.
-Is not considered a stalling ability.
 
 Emboldening Vapours:
 Has no battle limit.
@@ -43,7 +40,6 @@ Affects the entire party.
 Disorienting Blast:
 Can now be used from any rank and can affect all enemies in every rank.
 Stun Chance | 100/110/120/130/140% -> 110/120/130/140/150%
-Is not considered a stalling ability.
 
 Riposte Effect:
 Has a 140% chance to cause a 5 Bleed DoT.
