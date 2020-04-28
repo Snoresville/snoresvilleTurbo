@@ -1,0 +1,45 @@
+----------< Antiquarian >----------
+Crit Effect:
+Crits now increase give 20% DMG, 10 ACC, 10% CRIT, 10 DODGE, 15% PROT, 2 SPD, 40% Stress skills,
+-15% stress resist, 25% Healing Skills, 20% Blight Skill Chance, 33% DMG vs Bleeding, 33% DMG vs Marked.
+
+Nervous Stab:
+Accuracy | 85/90/95/100/105% -> 69/69/69/69/69%
+Damage | 0/0/0/0/0% -> 1337/1337/1337/1337/1337%
+Crit chance | 3/4/5/6/7% -> 420/420/420/420/420%
+
+Festering Vapours:
+Now targets enemies in all ranks.
+Now also shuffles the enemies
+Debuff chance | 100/110/120/130/140% 
+Prot Debuff | -10/-12.5/-15/-17.5/-20%
+Dodge Debuff | -15/-16/-17/-18/-20
+Acc Debuff | -5/-5/-6/-6/-7
+Weak blight dot | 1/1/2/2/3
+Normal blight dot | 2/2/3/3/4
+
+Get Down!:
+With the power of friendship, Antiquarian's blight chance,speed and dodge gain increases dependent on party size.
+
+Flashpowder:
+Weak stun chance | 60/70/80/90/100%
+Debuff chance | 100/110/120/130/140% 
+Dodge debuff | -20/-23/-25/-27/-30
+Speed debuff | -4/-5/-6/-7/-8
+Damage debuff | -10/-12/-15/-17/-20%
+Crit received debuff | 4/5/6/7/8%
+
+Fortifying Vapours:
+Affects the entire party.
+Now gives 15% prot buff
+
+Invigorating Vapours:
+Now has riposte
+Accuracy buff | 4/5/6/7/8
+Crit buff | 5/6/7/8/9
+Damage buff | 8/10/12/14/16%
+Stress Heal | 4/4/5/5/6
+
+Protect Me: 
+No Battle limit 
+Now makes everyone guard her.

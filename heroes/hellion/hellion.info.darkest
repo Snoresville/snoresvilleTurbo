@@ -31,11 +31,11 @@ combat_skill: .id "if_it_bleeds" .level 2 .type "melee" .atk 95% .dmg 0% .crit 2
 combat_skill: .id "if_it_bleeds" .level 3 .type "melee" .atk 100% .dmg 0% .crit 3% .launch 321 .target 1234 .is_crit_valid True  .effect "Bleed 4" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" 
 combat_skill: .id "if_it_bleeds" .level 4 .type "melee" .atk 105% .dmg 0% .crit 4% .launch 321 .target 1234 .is_crit_valid True  .effect "Bleed 5" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" "Bleedkiller" 
 combat_move_skill: .id "move" .level 0 .type "move" .move 0 4 .launch 4321
-combat_skill: .id "breakthru" .level 0 .type "melee" .atk 85% .dmg 0% .crit -1% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect brigand_barrel_spawn_riposte" 
-combat_skill: .id "breakthru" .level 1 .type "melee" .atk 90% .dmg 0% .crit 0% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect brigand_barrel_spawn_riposte"
-combat_skill: .id "breakthru" .level 2 .type "melee" .atk 95% .dmg 0% .crit 1% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect brigand_barrel_spawn_riposte"
-combat_skill: .id "breakthru" .level 3 .type "melee" .atk 100% .dmg 0% .crit 2% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect brigand_barrel_spawn_riposte"
-combat_skill: .id "breakthru" .level 4 .type "melee" .atk 105% .dmg 0% .crit 3% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect brigand_barrel_spawn_riposte"
+combat_skill: .id "breakthru" .level 0 .type "melee" .atk 85% .dmg 0% .crit -1% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect  "brigand_barrel_spawn_riposte" 
+combat_skill: .id "breakthru" .level 1 .type "melee" .atk 90% .dmg 0% .crit 0% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect  "brigand_barrel_spawn_riposte"
+combat_skill: .id "breakthru" .level 2 .type "melee" .atk 95% .dmg 0% .crit 1% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect  "brigand_barrel_spawn_riposte"
+combat_skill: .id "breakthru" .level 3 .type "melee" .atk 100% .dmg 0% .crit 2% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect  "brigand_barrel_spawn_riposte"
+combat_skill: .id "breakthru" .level 4 .type "melee" .atk 105% .dmg 0% .crit 3% .move 0 1 .launch 432 .target ~1234 .is_crit_valid True  .effect  "brigand_barrel_spawn_riposte"
 combat_skill: .id "adrenaline_rush" .level 0 .type "melee" .atk 0% .dmg 0% .crit 0% .launch 4321 .target @~1234  .is_crit_valid True  .effect "Adrenaline 1" "HellionHealSelf 1" "Antiq Self Speed 1" .is_stall_invalidating false
 combat_skill: .id "adrenaline_rush"  .level 1 .type "melee" .atk 0% .dmg 0% .crit 0% .launch 4321 .target @~1234  .is_crit_valid True  .effect "Adrenaline 2" "HellionHealSelf 2" "Antiq Self Speed 2" .is_stall_invalidating false
 combat_skill: .id "adrenaline_rush" .level 2 .type "melee" .atk 0% .dmg 0% .crit 0% .launch 4321 .target @~1234  .is_crit_valid True  .effect "Adrenaline 3" "HellionHealSelf 3" "Antiq Self Speed 3" .is_stall_invalidating false
@@ -46,7 +46,7 @@ combat_skill: .id "bleed_out" .level 1 .type "melee" .atk 1000% .dmg 100% .crit 
 combat_skill: .id "bleed_out" .level 2 .type "melee" .atk 1000% .dmg 100% .crit 30% .launch 1 .target 1 .is_crit_valid True  .effect "Strong Bleed 3" "Strong Bleed 3" "Strong Bleed 3" "Strong Bleed 3" "Strong Bleed 3" "Strong Bleed 3" "Strong Bleed 3" 
 combat_skill: .id "bleed_out" .level 3 .type "melee" .atk 1000% .dmg 100% .crit 40% .launch 1 .target 1 .is_crit_valid True  .effect "Strong Bleed 4" "Strong Bleed 4" "Strong Bleed 4" "Strong Bleed 4" "Strong Bleed 4" "Strong Bleed 4" "Strong Bleed 4" 
 combat_skill: .id "bleed_out" .level 4 .type "melee" .atk 1000% .dmg 100% .crit 50% .launch 1 .target 1 .is_crit_valid True  .effect "Strong Bleed 5" "Strong Bleed 5" "Strong Bleed 5" "Strong Bleed 5" "Strong Bleed 5" "Strong Bleed 5" "Strong Bleed 5" 
-riposte_skill: .id "wicked_hack" .level 0 .type "melee" .atk 105% .dmg 150% .crit 8% .launch 1234 .target 1234 .is_crit_valid True .effect
+riposte_skill: .id "wicked_hack" .level 0 .type "melee" .atk 200% .dmg 150% .crit 8% .launch 1234 .target 1234 .is_crit_valid True 
 tag: .id "non-religious"
 tag: .id "heavy"
 tag: .id "outsiders_bonfire"
