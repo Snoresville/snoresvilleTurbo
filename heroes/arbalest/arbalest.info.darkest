@@ -1,6 +1,5 @@
 resistances: .stun 40% .poison 30% .bleed 30% .disease 30% .move 40% .debuff 30% .death_blow 67% .trap 10%
 crit: .effects "on_crit_dmgmarked" "LeperHealSelf 5" "ConfessionBoothHealStress2" "PristineFountainHealStress2" "Absolution HealStress 4" 
-//nice
 weapon: .name "arbalest_weapon_0" .atk 0% .dmg 4 8 .crit 6% .spd 3
 weapon: .name "arbalest_weapon_1" .atk 0% .dmg 5 10 .crit 7% .spd 3 .upgradeRequirementCode 0
 weapon: .name "arbalest_weapon_2" .atk 0% .dmg 6 11 .crit 8% .spd 4 .upgradeRequirementCode 1
