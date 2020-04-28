@@ -1,0 +1,39 @@
+----------< Graverobber >----------
+Crit Effect:
+Crits now also give bonus crit chance
+In addition, the Crusader heals 10 HP and 7 Stress.
+
+Pick to the Face:
+Can now cause Prot debuff
+Debuff chance | 100/110/120/130/140% 
+Prot Debuff | -10/-12.5/-15/-17.5/-20%
+Damage | -15/-15/-15/-15/-15% -> 0/20/40/60/80
+Accuracy | 90/95/100/105/110 -> 100/125/150/175/200
+
+Lunge:
+Now can target the 4th enemy rank.
+Adds the Riposte effect on the Hellion that lasts for the duration of the battle.
+
+Flashing Daggers:
+Can now be used from any rank and can affect all enemies in every rank.
+Damage | -33/-33/-33/-33/-33% -> 0/0/0/0/0%
+
+Shadow Fade:
+With the power of friendship, Graverobber's crit, damage buff and speed gain increases dependent on party size.
+
+Thrown Dagger:
+Now can target the 1st enemy rank.
+Damage Modifier vs. Marked Targets | 25/30/35/40/50% -> 50/60/70/80/100%
+Crit Chance vs Marked Targets | 9/10/11/12/13% 
+Damage | -10/-10/-10/-10/-10% -> 0/0/0/0/0%
+Accuracy | 90/95/100/105/110 -> 100/110/120/130/140
+
+Poison Darts:
+Now targets enemies in all ranks.
+
+Toxin Trickery:
+With the power of friendship, Graverobber's dodge and speed gain increases dependent on party size.
+No battle limit.
+
+Riposte Effect:
+Graverobber will attack any attacking enemies while under the Riposte effect with Level 5 Thrown dagger.
