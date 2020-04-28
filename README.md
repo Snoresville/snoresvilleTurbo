@@ -9,3 +9,6 @@ Currently, these are the classes that have been modded:
 - Plague Doctor
 - Vestal
 - Leper
+- Antiquarian
+- Grave Robber
+- Hellion
