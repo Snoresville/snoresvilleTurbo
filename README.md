@@ -12,3 +12,4 @@ Currently, these are the classes that have been modded:
 - Antiquarian
 - Grave Robber
 - Hellion
+- Jester
