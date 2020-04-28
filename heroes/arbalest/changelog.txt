@@ -1,28 +1,46 @@
 ----------< Arbalest >----------
 
 Crit Effect:
-In addition, the Hellion heals 10 HP and 7 Stress.
+In addition, the Arbalest heals 10 HP and 69 Stress.
 
-Sniper Shot 
-
-
+Sniper Shot: 
+Can now target 1st rank
+Damage | 0/0/0/0/0% -> 10/30/50/70/90%
+Accuracy | 95/100/105/110/115 -> 111/122/133/144/155
+Crit chance | 5/6/7/8/9% -> 5/7/9/11/13%
 
 Suppressing Fire: 
 Now targets enemies in all ranks.
 Accuracy | 95/100/105/110/115% -> 100/110/120/130/140%
 Damage | -80/-80/-80/-80/-80% -> -50/-30/-10/10/30%
+Arbalest gains Riposte for the duration of combat.
 
-Sniper's Mark 
-Now marks all enemies
+Sniper's Mark:
+Can now be used at all ranks, targeting enemies in all ranks.
 Mark duration | 3 Rounds -> 1 Battle
 
-Bola 
+Bola: 
+Now targets 3rd rank.
+Now decreases enemy dodge 
+Dodge debuff | -16/-17/-18/-19/-20
+Debuff chance | 100/110/120/130/140%
+Damage | -50/-50/-50/-50/-50% -> 0/0/0/0/0%
+
+Blindfire: 
+Accuracy | -75/-80/-85/-90/-95 -> 69/70/71/72/73
+Damage | -10/-10/-10/-10/-10% -> 90/180/270/360/420%
+Moves the Arbalest back one rank.
+
+Battlefield Bondage: 
+Cure Blight/Bleed
+Healing | 2-3 3-3 3-4 4-4 4-5 ->  
+Now heals 8/9/10/11/12 stress.
+Now gives 5/6/7/8/10 ACC
+Now gives 20/22/24/26/30% DMG
 
 
-Blindfire 
+Rallying Flare: 
+Now has 110/120/130/140/150% chance to stun
 
-
-Battlefield Bandage 
-
-
-Rallying Flare 
+Riposte Effect:
+Moves the Arbalest back one rank
