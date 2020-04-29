@@ -1,0 +1,57 @@
+resistances: .stun 20% .poison 30% .bleed 40% .disease 40% .move 20% .debuff 60% .death_blow 67% .trap 10%
+crit: .effects "on_crit_healdone" "LeperHealSelfStress 5" "LeperHealSelf 5" "human_stress_heal_party_5" "human_stress_heal_party_5" "human_stress_heal_party_5" "Lurker Trap Debuff 5"
+weapon: .name "occultist_weapon_0" .atk 0% .dmg 4 7 .crit 6% .spd 6
+weapon: .name "occultist_weapon_1" .atk 0% .dmg 5 8 .crit 7% .spd 6 .upgradeRequirementCode 0
+weapon: .name "occultist_weapon_2" .atk 0% .dmg 6 10 .crit 8% .spd 7 .upgradeRequirementCode 1
+weapon: .name "occultist_weapon_3" .atk 0% .dmg 6 11 .crit 9% .spd 7 .upgradeRequirementCode 2
+weapon: .name "occultist_weapon_4" .atk 0% .dmg 7 13 .crit 10% .spd 8 .upgradeRequirementCode 3
+armour: .name "occultist_armour_0" .def 10% .prot 0 .hp 19 .spd 0
+armour: .name "occultist_armour_1" .def 15% .prot 0 .hp 23 .spd 0 .upgradeRequirementCode 0
+armour: .name "occultist_armour_2" .def 20% .prot 0 .hp 27 .spd 0 .upgradeRequirementCode 1
+armour: .name "occultist_armour_3" .def 25% .prot 0 .hp 31 .spd 0 .upgradeRequirementCode 2
+armour: .name "occultist_armour_4" .def 30% .prot 0 .hp 35 .spd 0 .upgradeRequirementCode 3
+combat_skill: .id "bloodlet" .level 0 .type "melee" .atk 80%  .dmg 0% .crit 9%  .launch 321 .target 123 .is_crit_valid True  .effect "Eldritch Killer 1" "Abyssal Killer 1" "brigand_barrel_spawn_riposte" "Strong Bleed 1"
+combat_skill: .id "bloodlet" .level 1 .type "melee" .atk 85%  .dmg 0% .crit 10% .launch 321 .target 123 .is_crit_valid True  .effect "Eldritch Killer 2" "Abyssal Killer 2" "brigand_barrel_spawn_riposte" "Strong Bleed 2"
+combat_skill: .id "bloodlet" .level 2 .type "melee" .atk 90%  .dmg 0% .crit 11% .launch 321 .target 123 .is_crit_valid True  .effect "Eldritch Killer 3" "Abyssal Killer 3" "brigand_barrel_spawn_riposte" "Strong Bleed 3"
+combat_skill: .id "bloodlet" .level 3 .type "melee" .atk 95%  .dmg 0% .crit 12% .launch 321 .target 123 .is_crit_valid True  .effect "Eldritch Killer 4" "Abyssal Killer 4" "brigand_barrel_spawn_riposte" "Strong Bleed 4"
+combat_skill: .id "bloodlet" .level 4 .type "melee" .atk 100% .dmg 0% .crit 13% .launch 321 .target 123 .is_crit_valid True  .effect "Eldritch Killer 5" "Abyssal Killer 5" "brigand_barrel_spawn_riposte" "Strong Bleed 5"
+combat_skill: .id "abyssal_artillery" .level 0 .type "ranged" .atk 120% .dmg 0% .crit 0% .launch 43 .target ~1234 .is_crit_valid True  .effect "Eldritch Killer 1" "Abyssal Killer 1"
+combat_skill: .id "abyssal_artillery" .level 1 .type "ranged" .atk 130% .dmg 0% .crit 1% .launch 43 .target ~1234 .is_crit_valid True  .effect "Eldritch Killer 2" "Abyssal Killer 2"
+combat_skill: .id "abyssal_artillery" .level 2 .type "ranged" .atk 140% .dmg 0% .crit 2% .launch 43 .target ~1234 .is_crit_valid True  .effect "Eldritch Killer 3" "Abyssal Killer 3"
+combat_skill: .id "abyssal_artillery" .level 3 .type "ranged" .atk 150% .dmg 0% .crit 3% .launch 43 .target ~1234 .is_crit_valid True  .effect "Eldritch Killer 4" "Abyssal Killer 4"
+combat_skill: .id "abyssal_artillery" .level 4 .type "ranged" .atk 160% .dmg 0% .crit 4% .launch 43 .target ~1234 .is_crit_valid True  .effect "Eldritch Killer 5" "Abyssal Killer 5"
+combat_skill: .id "weakening_curse" .level 0 .type "ranged" .atk 200% .dmg -75% .crit 5% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Weakening Curse 1" "Occ Weaken Prot 1" "Eldritch Killer 1" "Abyssal Killer 1"
+combat_skill: .id "weakening_curse" .level 1 .type "ranged" .atk 200% .dmg -75% .crit 6% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Weakening Curse 2" "Occ Weaken Prot 2" "Eldritch Killer 2" "Abyssal Killer 2"
+combat_skill: .id "weakening_curse" .level 2 .type "ranged" .atk 200% .dmg -75% .crit 7% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Weakening Curse 3" "Occ Weaken Prot 3" "Eldritch Killer 3" "Abyssal Killer 3"
+combat_skill: .id "weakening_curse" .level 3 .type "ranged" .atk 200% .dmg -75% .crit 8% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Weakening Curse 4" "Occ Weaken Prot 4" "Eldritch Killer 4" "Abyssal Killer 4"
+combat_skill: .id "weakening_curse" .level 4 .type "ranged" .atk 200% .dmg -75% .crit 9% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Weakening Curse 5" "Occ Weaken Prot 5" "Eldritch Killer 5" "Abyssal Killer 5"
+combat_skill: .id "wyrd_reconstruction" .level 0 .heal 0 13 .launch 4321 .target @1234  .effect "Wyrd Bleed 1" .generation_guaranteed true .is_stall_invalidating false
+combat_skill: .id "wyrd_reconstruction" .level 1 .heal 0 27 .launch 4321 .target @1234  .effect "Wyrd Bleed 2" .is_stall_invalidating false
+combat_skill: .id "wyrd_reconstruction" .level 2 .heal 0 41 .launch 4321 .target @1234  .effect "Wyrd Bleed 3" .is_stall_invalidating false
+combat_skill: .id "wyrd_reconstruction" .level 3 .heal 0 55 .launch 4321 .target @1234  .effect "Wyrd Bleed 4" .is_stall_invalidating false
+combat_skill: .id "wyrd_reconstruction" .level 4 .heal 0 69 .launch 4321 .target @1234  .effect "Wyrd Bleed 5" .is_stall_invalidating false
+combat_move_skill: .id "move" .level 0 .type "move" .move 2 2 .launch 4321
+combat_skill: .id "disruptive_curse" .level 0 .type "ranged" .atk 200%  .dmg -90% .crit 5% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Vulnerability Curse 1" "Turbo Mark" "Eldritch Killer 1" "Abyssal Killer 1" .is_stall_invalidating false
+combat_skill: .id "disruptive_curse" .level 1 .type "ranged" .atk 200% .dmg -90% .crit 6% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Vulnerability Curse 2" "Turbo Mark" "Eldritch Killer 2" "Abyssal Killer 2" .is_stall_invalidating false
+combat_skill: .id "disruptive_curse" .level 2 .type "ranged" .atk 200% .dmg -90% .crit 7% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Vulnerability Curse 3" "Turbo Mark" "Eldritch Killer 3" "Abyssal Killer 3" .is_stall_invalidating false
+combat_skill: .id "disruptive_curse" .level 3 .type "ranged" .atk 200% .dmg -90% .crit 8% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Vulnerability Curse 4" "Turbo Mark" "Eldritch Killer 4" "Abyssal Killer 4" .is_stall_invalidating false
+combat_skill: .id "disruptive_curse" .level 4 .type "ranged" .atk 200% .dmg -90% .crit 9% .launch 4321 .target ~1234 .is_crit_valid True  .effect "Occ Vulnerability Curse 5" "Turbo Mark" "Eldritch Killer 5" "Abyssal Killer 5" .is_stall_invalidating false
+combat_skill: .id "hands_from_abyss" .level 0 .type "ranged" .atk 90%  .dmg -50% .crit 9%  .launch 21 .target 1234 .is_crit_valid True  .effect "Abyssal Stun 1" "Darkness 1"  "Eldritch Killer 1" "Abyssal Killer 1"
+combat_skill: .id "hands_from_abyss" .level 1 .type "ranged" .atk 95%  .dmg -50% .crit 10% .launch 21 .target 1234 .is_crit_valid True  .effect "Abyssal Stun 2" "Darkness 1" "Eldritch Killer 2" "Abyssal Killer 2"
+combat_skill: .id "hands_from_abyss" .level 2 .type "ranged" .atk 100% .dmg -50% .crit 11% .launch 21 .target 1234 .is_crit_valid True  .effect "Abyssal Stun 3" "Darkness 1" "Eldritch Killer 3" "Abyssal Killer 3"
+combat_skill: .id "hands_from_abyss" .level 3 .type "ranged" .atk 105% .dmg -50% .crit 12% .launch 21 .target 1234 .is_crit_valid True  .effect "Abyssal Stun 4" "Darkness 1" "Eldritch Killer 4" "Abyssal Killer 4"
+combat_skill: .id "hands_from_abyss" .level 4 .type "ranged" .atk 110% .dmg -50% .crit 13% .launch 21 .target 1234 .is_crit_valid True  .effect "Abyssal Stun 5" "Darkness 1" "Eldritch Killer 5" "Abyssal Killer 5"
+combat_skill: .id "daemons_pull" .level 0 .type "ranged" .atk 90%  .dmg 25% .crit 5% .launch 4321 .target 34 .is_crit_valid True  .effect "Pull 2A" "clear_corpses" "Eldritch Killer 1" "Abyssal Killer 1" "Occ Vulnerability Curse 1"
+combat_skill: .id "daemons_pull" .level 1 .type "ranged" .atk 95%  .dmg 25% .crit 6% .launch 4321 .target 34 .is_crit_valid True  .effect "Pull 2B" "clear_corpses" "Eldritch Killer 2" "Abyssal Killer 2" "Occ Vulnerability Curse 2"
+combat_skill: .id "daemons_pull" .level 2 .type "ranged" .atk 100% .dmg 25% .crit 7% .launch 4321 .target 34 .is_crit_valid True  .effect "Pull 2C" "clear_corpses" "Eldritch Killer 3" "Abyssal Killer 3" "Occ Vulnerability Curse 3"
+combat_skill: .id "daemons_pull" .level 3 .type "ranged" .atk 105% .dmg 25% .crit 8% .launch 4321 .target 34 .is_crit_valid True  .effect "Pull 2D" "clear_corpses" "Eldritch Killer 4" "Abyssal Killer 4" "Occ Vulnerability Curse 4"
+combat_skill: .id "daemons_pull" .level 4 .type "ranged" .atk 110% .dmg 25% .crit 9% .launch 4321 .target 34 .is_crit_valid True  .effect "Pull 2E" "clear_corpses" "Eldritch Killer 5" "Abyssal Killer 5" "Occ Vulnerability Curse 5"
+riposte_skill: .id "bloodlet" .level 0 .type "melee" .atk 200% .dmg 0% .crit 15% .launch 1234 .target 1234 .is_crit_valid True .effect "Eldritch Killer 5" "Abyssal Killer 5" "Strong Bleed 5"
+tag: .id "light"
+tag: .id "non-religious"
+tag: .id "library"
+deaths_door: .buffs deathsdoorACCDebuff deathsdoorDMGLowDebuff deathsdoorDMGHighDebuff deathsdoorSPDDebuff deathsdoorSRDebuff .recovery_buffs mortalityACCDebuff mortalityDMGLowDebuff mortalityDMGHighDebuff mortalitySPDDebuff mortalitySRDebuff .recovery_heart_attack_buffs heartattackACCDebuff heartattackDMGLowDebuff heartattackDMGHighDebuff heartattackSPDDebuff heartattackSRDebuff
+controlled: .target_rank 4
+id_index: .index 7
+skill_selection: .can_select_combat_skills true .number_of_selected_combat_skills_max 4
+generation: .is_generation_enabled true .number_of_positive_quirks_min 1 .number_of_positive_quirks_max 2 .number_of_negative_quirks_min 1 .number_of_negative_quirks_max 2 .number_of_class_specific_camping_skills 2 .number_of_shared_camping_skills 1 .number_of_random_combat_skills 4 .number_of_cards_in_deck 8 .card_chance 1.0
