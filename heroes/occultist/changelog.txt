@@ -1,0 +1,46 @@
+----------< Occultist >----------
+
+Crit Effect: 
+Crits now also have a 100% chance to apply -8 speed and -30 dodge debuff for 12 rounds
+In addition, the Occultist heals 10 HP and 7 Stress.
+Party also heals 6 Stress
+
+Sacrifical Stab: 
+Now does 30/37/45/52/60% dmg vs Eldritch targets
+Now applies 3/3/4/4/5 bleed dot
+Bleed chance | 100/110/120/130/140
+Occultist gains Riposte for the duration of combat.
+
+Abyssal Artillery: 
+Now targets enemies in all ranks.
+Now does 30/37/45/52/60% dmg vs Eldritch targets
+Damage | -33/-33/-33/-33/-33% -> 0/0/0/0/0%
+Accuracy | 85/90/95/100/105 -> 120/130/140/150/160
+
+Weakening Curse: 
+Now targets enemies in all ranks.
+Now does 30/37/45/52/60% dmg vs Eldritch targets
+Accuracy | 95/100/105/110/115 -> 200/200/200/200/200
+
+Wyrd Reconstruction: 
+Healing | 0-13 0-15 0-17 0-19 0-22 -> 0-13 0-27 0-41 0-55 0-69
+
+Vulnerability Hex: 
+Now targets enemies in all ranks.
+Now does 30/37/45/52/60% dmg vs Eldritch targets
+Accuracy | 95/100/105/110/115 -> 200/200/200/200/200
+Mark Duration | 3 Rounds -> 1 Battle
+
+Hands from the Abyss: 
+Can now target 4th rank
+Now does 30/37/45/52/60% dmg vs Eldritch targets
+Damage | -50/-50/-50/-50/-50% -> 25/25/25/25/25%
+
+Daemon's Pull: 
+Now does 30/37/45/52/60% dmg vs Eldritch targets
+Now gives 15/16/17/18/20 dodge debuff to the target
+Debuff chance | 100/110/120/130/140
+
+Riposte effect:
+Does 30/37/45/52/60% dmg vs Eldritch targets
+Has 140% chance to apply 5 bleed
