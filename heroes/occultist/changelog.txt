@@ -29,6 +29,7 @@ Vulnerability Hex:
 Now targets enemies in all ranks.
 Now does 30/37/45/52/60% dmg vs Eldritch targets
 Accuracy | 95/100/105/110/115 -> 200/200/200/200/200
+Mark Duration | 3 Rounds -> 1 Battle
 
 Hands from the Abyss: 
 Can now target 4th rank
