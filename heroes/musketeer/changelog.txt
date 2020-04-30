@@ -1,0 +1,51 @@
+----------< Musketeer >----------
+
+Base stats:
+Crit changed from 6/7/8/9/10% to 2/3/4/5/6%
+Damage changed from 4-8/5-10/6-11/6-13/7-14 to 5-11/6-12/7-13/8-14/9-15
+Stun resist | 40% -> 20%
+Blight resist | 30% -> 40%
+Dodge | 0/5/10/15/20 -> 5/10/15/20/25
+HP | 27/32/37/42/47 -> 24/29/34/39/44
+
+Crit Effect:
+Kills the target.
+
+Aimed Shot:
+Can now be used at all ranks.
+Can now target 1st rank.
+Accuracy | 95/100/105/110/115 -> 100/110/120/130/140
+Crit chance | 5/6/7/8/9% -> 0/1/2/3/4%
+
+Smokescreen:
+Can now be used at all ranks.
+Disabled crit
+Accuracy | 95/100/105/110/115 -> 200/200/200/200/200
+Now has 100/110/120/130/140 chance to stun.
+
+Call the Shot:
+Can now be used at all ranks, targeting enemies in all ranks.
+Mark duration | 3 Rounds -> 1 Battle
+
+Buckshot:
+Disabled crit
+No longer pushes the targets
+Now targets all enemies.
+Damage | -50/-50/-50/-50/-50% -> 0/25/50/75/100%
+
+Sidearm:
+Musketeer gains Riposte for the duration of combat.
+
+Patch Up:
+Disabled crit
+Now cures Musketeer and gives 33% Bleed,Blight,Disease and Debuff resist.
+Now can be used from all ranks but only targets Musketeer.
+Healing | 2-3/3-3/3-4/4-4/4-5 -> 3/5/7/9/11
+
+Skeet Shot:
+No longer clears marks and stuns from other heroes.
+Now only heals musketeer stress.
+Stress healed per enemies | 5/5/6/6/7
+Now increases ACC by 6/7/8/9/10 and DMG by 25/27/30/33/35% based on number of enemies.
+Accuracy | 95/100/105/110/115 -> 300/300/300/300/300
+
