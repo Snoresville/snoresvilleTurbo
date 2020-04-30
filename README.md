@@ -13,3 +13,5 @@ Currently, these are the classes that have been modded:
 - Grave Robber
 - Hellion
 - Jester
+- Occultist
+- Musketeer
