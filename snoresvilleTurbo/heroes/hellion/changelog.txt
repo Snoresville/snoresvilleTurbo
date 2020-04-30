@@ -10,6 +10,8 @@ Damage | 0/0/0/0/0% -> 30/60/90/120/150%
 Iron Swan:
 Can now be used in all ranks
 Accuracy | 85/90/95/100/105% -> 110/120/130/140/150%
+Damage | 0/0/0/0/0% -> 100/200/300/400/500%
+Crit Chance | 5/6/7/8/9% -> 9/24/39/54/69%
 
 Barbaric Yawp:
 Now targets enemies in all ranks.
@@ -18,7 +20,7 @@ No battle limit
 If It Bleeds:
 Can now target all enemies in all ranks.
 Damage | -35/-35/-35/-35/-35% -> 0/0/0/0/0%
-If It Bleeds deals an additional 500% damage against bleeding targets.
+If It Bleeds deals an additional 350% damage against bleeding targets.
 
 Breakthrough:
 Now targets enemies in all ranks.
