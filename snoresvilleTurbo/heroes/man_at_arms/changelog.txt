@@ -1,0 +1,56 @@
+----------< Man at Arms >----------
+Crit Effect:
+Crits now increases stress resistance of the Man at Arms by 20% for the duration of the battle.
+Also grants 13 Dodge and 4 Speed, and cures blight and bleed.
+In addition, the Crusader heals 10 HP and 7 Stress.
+
+Crush:
+Can now target all ranks.
+Damage | 0/0/0/0/0% -> 40/80/120/160/200%
+Ignores Guard.
+
+Rampart:
+Now targets enemies in all ranks simultaneously.
+Stun Chance | 100/110/120/130/140% -> 125/135/145/155/165%
+Damage vs Stunned increased by 25/33/40/50/60%
+
+Bellow:
+Can now crit.
+Damage | -100/-100/-100/-100/-100% -> -33/-33/-33/-33/-33%
+Crit Chance | 0/0/0/0/0% -> 100/100/100/100/100%
+Now has a 100/110/120/130/140% chance to reduce protection by 10/13/15/17/20. This effect rolls three times.
+
+Defender:
+Man at Arms receives Riposte that lasts for the duration of the battle.
+Man at Arms gets buffed for the remainder of battle:
+Accuracy increased by 10/11/12/13/15
+Damage increased by 25/27/30/32/35%
+Crit Chance increased by 7/8/9/10/11%
+
+Retribution:
+Can now target all ranks.
+Accuracy | 85/90/95/100/105 -> 100/110/120/130/140
+Damage | -75/-75/-75/-75/-75% -> 10/20/30/40/50%
+No longer grants riposte and marks self.
+Now has a 100/100/120/120/140% chance to inflict 6/6/8/8/10 Bleed for 3 rounds.
+Now has a 150% chance to inflict 4/4/6/6/10 Blight for 3 rounds.
+Deals an extra 50% damage against bleeding targets.
+Deals an extra 50% damage against blighted targets.
+
+Command:
+Now heals 5/5/6/7/8 stress.
+Buffs doubled.
+-
+Accuracy | 5/6/7/8/10 -> 10/12/14/16/20
+Crit Chance | 4/5/6/7/8% -> 8/10/12/14/16%
+Increased damage while guarded | 15/17/20/22/25% -> 30/34/40/44/50%
+
+Bolster:
+Battle limit removed.
+Buffs doubled.
+-
+Dodge | 5/6/7/8/10 -> 10/12/14/16/20
+Stress Resistance | 10/10/15/15/20% -> 20/20/30/30/40%
+
+Riposte Effect:
+Crusader will attack any attacking enemies while under the Riposte effect with Level 5 Retribution.
