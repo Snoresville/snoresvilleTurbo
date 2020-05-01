@@ -14,6 +14,7 @@ Now can cause two additional bleed instances on top of its current instance:
 5/6/7/8/9 DoT Bleed with 100/110/120/130/140%
 6/6/8/8/10 DoT Bleed with 100/100/120/120/140%
 Deals 50% extra damage to targets affected by bleed.
+Adds the Riposte effect on the Flagellant that lasts for the duration of the battle.
 
 Rain of Sorrows:
 Can now be used from any rank and can affect all enemies in every rank.
@@ -40,8 +41,6 @@ Endure:
 Now targets every allies.
 No longer has self stress.
 
-Suffer:
-Adds the Riposte effect on the Flagellant that lasts for the duration of the battle.
 
 Riposte effect:
 Now has 140% chance to apply 10 bleed for 3 rounds.
