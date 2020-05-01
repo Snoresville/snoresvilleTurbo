@@ -1,0 +1,46 @@
+----------< Bounty Hunter >----------
+
+Crit Effect:
+Crits mark the enemy for the duration of the battle.
+Any crit on a marked enemy will increase damage by 100%.
+In addition, the Bounty Hunter heals 10 HP and 7 Stress.
+
+Collect Bounty:
+Can now target all ranks from any rank.
+Damage vs Marked | 90% -> 500%
+Bonus Crit Chance vs Marked | 0% -> 65%
+
+Mark for Death:
+Now targets enemies in all ranks at once.
+Accuracy | 100/105/110/115/120 -> 140/155/170/185/200
+Mark Duration | 3 Rounds -> 1 Battle
+Bounty Hunter gains Riposte for the duration of combat.
+Now destealths targets.
+
+Come Hither:
+Can now target an enemy in all ranks.
+Moves the Bounty Hunter 3 Ranks Forward.
+Enemy Pull | 2 -> 3
+
+Uppercut: 
+Targets | 12/12/12/12/12 -> 1/12/123/1234/1234 (All)
+Position to Use | 12/12/12/12/12 -> 1/12/123/1234/1234
+Accuracy | 90/95/100/105/110 -> 1000/2000/3000/4000/5000
+Damage | -67/-67/-67/-67/-67% -> 9/99/999/9999/99999%
+Knockback | 2 -> 3
+Knockback Chance | 100/110/120/130/140% -> 200/200/200/200/200%
+Crit Chance | 0/1/2/3/4% -> 0/25/50/75/100%
+
+Flashbang: 
+Now targets enemies in all ranks, from all ranks.
+
+Finish Him: 
+Now has a 125/135/145/155/165% chance to stun.
+Damage vs Stunned | 25/33/40/50/60% -> 125/165/200/250/300%
+
+Caltrops: 
+Now targets enemies in all ranks simultaneously, from all ranks.
+Now has a 150% chance to shuffle hit characters.
+
+Riposte Effect:
+Bounty Hunter will attack any attacking enemies while under the Riposte effect with Level 5 Collect Bounty.
