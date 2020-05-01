@@ -4,14 +4,15 @@ This mod makes all of the classes crazier, while keeping them similar to their v
 
 Currently, these are the classes that have been modded:
 
-- Crusader
-- Highwayman
-- Plague Doctor
-- Vestal
-- Leper
 - Antiquarian
+- Arbalest
+- Crusader
 - Grave Robber
 - Hellion
+- Highwayman
 - Jester
-- Occultist
+- Leper
 - Musketeer
+- Occultist
+- Plague Doctor
+- Vestal
