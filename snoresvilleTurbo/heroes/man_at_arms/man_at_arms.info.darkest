@@ -1,5 +1,5 @@
 resistances: .stun 40% .poison 30% .bleed 40% .disease 30% .move 40% .debuff 30% .death_blow 67% .trap 10%
-crit: .effects "on_crit_stressresist"
+crit: .effects "on_crit_stressresist" "Bolster Stress Buff 5" "Shadow Blood 5" "GR Self Speed 5" "LeperHealSelfStress 5" "LeperHealSelf 5"
 weapon: .name "man_at_arms_weapon_0" .atk 0% .dmg 5 9 .crit 2% .spd 3
 weapon: .name "man_at_arms_weapon_1" .atk 0% .dmg 6 10 .crit 3% .spd 3 .upgradeRequirementCode 0
 weapon: .name "man_at_arms_weapon_2" .atk 0% .dmg 7 12 .crit 4% .spd 4 .upgradeRequirementCode 1
@@ -10,43 +10,43 @@ armour: .name "man_at_arms_armour_1" .def 10% .prot 0 .hp 37 .spd 0 .upgradeRequ
 armour: .name "man_at_arms_armour_2" .def 15% .prot 0 .hp 43 .spd 0 .upgradeRequirementCode 1
 armour: .name "man_at_arms_armour_3" .def 20% .prot 0 .hp 49 .spd 0 .upgradeRequirementCode 2
 armour: .name "man_at_arms_armour_4" .def 25% .prot 0 .hp 55 .spd 0 .upgradeRequirementCode 3
-combat_skill: .id "crush" .level 0 .type "melee" .atk 85% .dmg 0% .crit 5% .launch 12 .target 123 .is_crit_valid True  .generation_guaranteed true
-combat_skill: .id "crush" .level 1 .type "melee" .atk 90% .dmg 0% .crit 6% .launch 12 .target 123 .is_crit_valid True 
-combat_skill: .id "crush" .level 2 .type "melee" .atk 95% .dmg 0% .crit 7% .launch 12 .target 123 .is_crit_valid True 
-combat_skill: .id "crush" .level 3 .type "melee" .atk 100% .dmg 0% .crit 8% .launch 12 .target 123 .is_crit_valid True 
-combat_skill: .id "crush" .level 4 .type "melee" .atk 105% .dmg 0% .crit 9% .launch 12 .target 123 .is_crit_valid True 
-combat_skill: .id "rampart" .level 0 .type "melee" .atk 90% .dmg -60% .crit 5% .move 0 1 .launch 123 .target 12 .is_crit_valid True  .effect "Push 1A" "Stun 1"
-combat_skill: .id "rampart" .level 1 .type "melee" .atk 95% .dmg -60% .crit 6% .move 0 1 .launch 123 .target 12 .is_crit_valid True  .effect "Push 1B" "Stun 2"
-combat_skill: .id "rampart" .level 2 .type "melee" .atk 100% .dmg -60% .crit 7% .move 0 1 .launch 123 .target 12 .is_crit_valid True  .effect "Push 1C" "Stun 3"
-combat_skill: .id "rampart" .level 3 .type "melee" .atk 105% .dmg -60% .crit 8% .move 0 1 .launch 123 .target 12 .is_crit_valid True  .effect "Push 1D" "Stun 4"
-combat_skill: .id "rampart" .level 4 .type "melee" .atk 110% .dmg -60% .crit 9% .move 0 1 .launch 123 .target 12 .is_crit_valid True  .effect "Push 1E" "Stun 5"
-combat_skill: .id "bellow" .level 0 .type "ranged" .atk 90% .dmg -100% .crit 0% .launch 1234 .target ~1234 .is_crit_valid False  .effect "Disrupt 1" "Bellow Crit 1" .is_stall_invalidating false
-combat_skill: .id "bellow" .level 1 .type "ranged" .atk 95% .dmg -100% .crit 0% .launch 1234 .target ~1234 .is_crit_valid False  .effect "Disrupt 2" "Bellow Crit 2" .is_stall_invalidating false
-combat_skill: .id "bellow" .level 2 .type "ranged" .atk 100% .dmg -100% .crit 0% .launch 1234 .target ~1234 .is_crit_valid False  .effect "Disrupt 3" "Bellow Crit 3" .is_stall_invalidating false
-combat_skill: .id "bellow" .level 3 .type "ranged" .atk 105% .dmg -100% .crit 0% .launch 1234 .target ~1234 .is_crit_valid False  .effect "Disrupt 4" "Bellow Crit 4" .is_stall_invalidating false
-combat_skill: .id "bellow" .level 4 .type "ranged" .atk 110% .dmg -100% .crit 0% .launch 1234 .target ~1234 .is_crit_valid False  .effect "Disrupt 5" "Bellow Crit 5" .is_stall_invalidating false
-combat_skill: .id "defender" .level 0 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 1" .is_stall_invalidating false
-combat_skill: .id "defender" .level 1 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 2" .is_stall_invalidating false
-combat_skill: .id "defender" .level 2 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 3" .is_stall_invalidating false
-combat_skill: .id "defender" .level 3 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 4" .is_stall_invalidating false
-combat_skill: .id "defender" .level 4 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 5" .is_stall_invalidating false
+combat_skill: .id "crush" .level 0 .type "melee" .atk 85% .dmg 40% .crit 5% .launch 12 .target 1234 .is_crit_valid True .ignore_guard true  .generation_guaranteed true
+combat_skill: .id "crush" .level 1 .type "melee" .atk 90% .dmg 80% .crit 6% .launch 12 .target 1234 .is_crit_valid True .ignore_guard true
+combat_skill: .id "crush" .level 2 .type "melee" .atk 95% .dmg 120% .crit 7% .launch 12 .target 1234 .is_crit_valid True .ignore_guard true
+combat_skill: .id "crush" .level 3 .type "melee" .atk 100% .dmg 160% .crit 8% .launch 12 .target 1234 .is_crit_valid True .ignore_guard true
+combat_skill: .id "crush" .level 4 .type "melee" .atk 105% .dmg 200% .crit 9% .launch 12 .target 1234 .is_crit_valid True .ignore_guard true
+combat_skill: .id "rampart" .level 0 .type "melee" .atk 90% .dmg -60% .crit 5% .move 0 1 .launch 123 .target ~1234 .is_crit_valid True  .effect "Push 1A" "Strong Stun 1" "Stun Killer 1"
+combat_skill: .id "rampart" .level 1 .type "melee" .atk 95% .dmg -60% .crit 6% .move 0 1 .launch 123 .target ~1234 .is_crit_valid True  .effect "Push 1B" "Strong Stun 2" "Stun Killer 2"
+combat_skill: .id "rampart" .level 2 .type "melee" .atk 100% .dmg -60% .crit 7% .move 0 1 .launch 123 .target ~1234 .is_crit_valid True  .effect "Push 1C" "Strong Stun 3" "Stun Killer 3"
+combat_skill: .id "rampart" .level 3 .type "melee" .atk 105% .dmg -60% .crit 8% .move 0 1 .launch 123 .target ~1234 .is_crit_valid True  .effect "Push 1D" "Strong Stun 4" "Stun Killer 4"
+combat_skill: .id "rampart" .level 4 .type "melee" .atk 110% .dmg -60% .crit 9% .move 0 1 .launch 123 .target ~1234 .is_crit_valid True  .effect "Push 1E" "Strong Stun 5" "Stun Killer 5"
+combat_skill: .id "bellow" .level 0 .type "ranged" .atk 90% .dmg -33% .crit 0% .launch 1234 .target ~1234 .is_crit_valid True  .effect "Disrupt 1" "Bellow Crit 1" "Occ Weaken Prot 1" "Occ Weaken Prot 1" "Occ Weaken Prot 1" .is_stall_invalidating false
+combat_skill: .id "bellow" .level 1 .type "ranged" .atk 95% .dmg -33% .crit 0% .launch 1234 .target ~1234 .is_crit_valid True  .effect "Disrupt 2" "Bellow Crit 2" "Occ Weaken Prot 2" "Occ Weaken Prot 2" "Occ Weaken Prot 2" .is_stall_invalidating false
+combat_skill: .id "bellow" .level 2 .type "ranged" .atk 100% .dmg -33% .crit 0% .launch 1234 .target ~1234 .is_crit_valid True  .effect "Disrupt 3" "Bellow Crit 3" "Occ Weaken Prot 3" "Occ Weaken Prot 3" "Occ Weaken Prot 3" .is_stall_invalidating false
+combat_skill: .id "bellow" .level 3 .type "ranged" .atk 105% .dmg -33% .crit 0% .launch 1234 .target ~1234 .is_crit_valid True  .effect "Disrupt 4" "Bellow Crit 4" "Occ Weaken Prot 4" "Occ Weaken Prot 4" "Occ Weaken Prot 4" .is_stall_invalidating false
+combat_skill: .id "bellow" .level 4 .type "ranged" .atk 110% .dmg -33% .crit 0% .launch 1234 .target ~1234 .is_crit_valid True  .effect "Disrupt 5" "Bellow Crit 5" "Occ Weaken Prot 5" "Occ Weaken Prot 5" "Occ Weaken Prot 5" .is_stall_invalidating false
+combat_skill: .id "defender" .level 0 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 1" "brigand_barrel_spawn_riposte" "Leper Strength 1" .is_stall_invalidating false
+combat_skill: .id "defender" .level 1 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 2" "brigand_barrel_spawn_riposte" "Leper Strength 2" .is_stall_invalidating false
+combat_skill: .id "defender" .level 2 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 3" "brigand_barrel_spawn_riposte" "Leper Strength 3" .is_stall_invalidating false
+combat_skill: .id "defender" .level 3 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 4" "brigand_barrel_spawn_riposte" "Leper Strength 4" .is_stall_invalidating false
+combat_skill: .id "defender" .level 4 .type "melee" .atk 0% .dmg 0% .crit 0% .self_target_valid false .launch 1234 .target @1234 .is_crit_valid True  .effect "Clear Guard Performer" "Clear Guard Target" "MAA Guard 1" "Defender 5" "brigand_barrel_spawn_riposte" "Leper Strength 5" .is_stall_invalidating false
 combat_move_skill: .id "move" .level 0 .type "move" .move 2 2 .launch 4321
-combat_skill: .id "retribution" .level 0 .type "melee" .atk 85% .dmg -75% .crit 2.5% .launch 123 .target 123 .is_crit_valid True  .effect "MAA Riposte 1" "Mark Self"
-combat_skill: .id "retribution" .level 1 .type "melee" .atk 90% .dmg -75% .crit 3.5% .launch 123 .target 123 .is_crit_valid True  .effect "MAA Riposte 2" "Mark Self"
-combat_skill: .id "retribution" .level 2 .type "melee" .atk 95% .dmg -75% .crit 4.5% .launch 123 .target 123 .is_crit_valid True  .effect "MAA Riposte 3" "Mark Self"
-combat_skill: .id "retribution" .level 3 .type "melee" .atk 100% .dmg -75% .crit 5.5% .launch 123 .target 123 .is_crit_valid True  .effect "MAA Riposte 4" "Mark Self"
-combat_skill: .id "retribution" .level 4 .type "melee" .atk 105% .dmg -75% .crit 6.5% .launch 123 .target 123 .is_crit_valid True  .effect "MAA Riposte 5" "Mark Self"
-combat_skill: .id "command" .level 0 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 1" .is_stall_invalidating false
-combat_skill: .id "command" .level 1 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 2" .is_stall_invalidating false
-combat_skill: .id "command" .level 2 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 3" .is_stall_invalidating false
-combat_skill: .id "command" .level 3 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 4" .is_stall_invalidating false
-combat_skill: .id "command" .level 4 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 5" .is_stall_invalidating false
-combat_skill: .id "bolster" .level 0 .type "ranged" .atk 0% .dmg 0% .crit 0% .per_battle_limit 1 .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 1" "Bolster Stress Buff 1" .is_stall_invalidating false
-combat_skill: .id "bolster" .level 1 .type "ranged" .atk 0% .dmg 0% .crit 0% .per_battle_limit 1 .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 2" "Bolster Stress Buff 2" .is_stall_invalidating false
-combat_skill: .id "bolster" .level 2 .type "ranged" .atk 0% .dmg 0% .crit 0% .per_battle_limit 1 .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 3" "Bolster Stress Buff 3" .is_stall_invalidating false
-combat_skill: .id "bolster" .level 3 .type "ranged" .atk 0% .dmg 0% .crit 0% .per_battle_limit 1 .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 4" "Bolster Stress Buff 4" .is_stall_invalidating false
-combat_skill: .id "bolster" .level 4 .type "ranged" .atk 0% .dmg 0% .crit 0% .per_battle_limit 1 .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 5" "Bolster Stress Buff 5" .is_stall_invalidating false
-riposte_skill: .id "riposte1" .level 0 .type "melee" .atk 90% .dmg 0% .crit 0% .launch 1234 .target 1234 .is_crit_valid True 
+combat_skill: .id "retribution" .level 0 .type "melee" .atk 100% .dmg 10% .crit 2.5% .launch 123 .target 1234 .is_crit_valid True  .effect "BleedKiller" "PoisonKiller" "Crabby Bleed 1" "Templar AOE Blight"
+combat_skill: .id "retribution" .level 1 .type "melee" .atk 110% .dmg 20% .crit 3.5% .launch 123 .target 1234 .is_crit_valid True  .effect "BleedKiller" "PoisonKiller" "Crabby Bleed 1" "Templar AOE Blight"
+combat_skill: .id "retribution" .level 2 .type "melee" .atk 120% .dmg 30% .crit 4.5% .launch 123 .target 1234 .is_crit_valid True  .effect "BleedKiller" "PoisonKiller" "Crabby Bleed 2" "Templar Snipe Blight"
+combat_skill: .id "retribution" .level 3 .type "melee" .atk 130% .dmg 40% .crit 5.5% .launch 123 .target 1234 .is_crit_valid True  .effect "BleedKiller" "PoisonKiller" "Crabby Bleed 2" "Templar Snipe Blight"
+combat_skill: .id "retribution" .level 4 .type "melee" .atk 140% .dmg 50% .crit 6.5% .launch 123 .target 1234 .is_crit_valid True  .effect "BleedKiller" "PoisonKiller" "Crabby Bleed 3" "Templar Sting Blight"
+combat_skill: .id "command" .level 0 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 1" "Command 1" "Crusader HealStress 1" .is_stall_invalidating false
+combat_skill: .id "command" .level 1 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 2" "Command 2" "Crusader HealStress 2" .is_stall_invalidating false
+combat_skill: .id "command" .level 2 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 3" "Command 3" "Crusader HealStress 3" .is_stall_invalidating false
+combat_skill: .id "command" .level 3 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 4" "Command 4" "Crusader HealStress 4" .is_stall_invalidating false
+combat_skill: .id "command" .level 4 .type "ranged" .atk 0% .dmg 0% .crit 0% .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Command 5" "Command 5" "Crusader HealStress 5" .is_stall_invalidating false
+combat_skill: .id "bolster" .level 0 .type "ranged" .atk 0% .dmg 0% .crit 0%  .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 1" "Bolster Stress Buff 1" "Bolster 5" "Bolster Stress Buff 5" .is_stall_invalidating false
+combat_skill: .id "bolster" .level 1 .type "ranged" .atk 0% .dmg 0% .crit 0%  .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 2" "Bolster Stress Buff 2" "Bolster 5" "Bolster Stress Buff 5" .is_stall_invalidating false
+combat_skill: .id "bolster" .level 2 .type "ranged" .atk 0% .dmg 0% .crit 0%  .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 3" "Bolster Stress Buff 3" "Bolster 5" "Bolster Stress Buff 5" .is_stall_invalidating false
+combat_skill: .id "bolster" .level 3 .type "ranged" .atk 0% .dmg 0% .crit 0%  .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 4" "Bolster Stress Buff 4" "Bolster 5" "Bolster Stress Buff 5" .is_stall_invalidating false
+combat_skill: .id "bolster" .level 4 .type "ranged" .atk 0% .dmg 0% .crit 0%  .launch 1234 .target ~@1234 .is_crit_valid True  .effect "Bolster 5" "Bolster Stress Buff 5" "Bolster 5" "Bolster Stress Buff 5" .is_stall_invalidating false
+riposte_skill: .id "riposte1" .level 0 .type "melee" .atk 200% .dmg 0% .crit 9% .launch 1234 .target 1234 .is_crit_valid True .effect "BleedKiller" "PoisonKiller" "Crabby Bleed 3" "Templar Sting Blight"
 tag: .id "heavy"
 tag: .id "non-religious"
 tag: .id "training_ring"
