@@ -5,7 +5,7 @@ In addition, the Plague Doctor heals 10 HP and 7 Stress.
 
 Noxious Blast:
 Can now be used from any rank and can target an enemy in all ranks.
-Noxious Blast now can cause four additional bleed instances on top of its current instance:
+Noxious Blast now can cause four additional blight instances on top of its current instance:
 1/1/2/2/3 DoT Blight with 100%/110%/120%/130%/140%
 2/2/3/3/4 DoT Blight with 100%/110%/120%/130%/140%
 3/3/4/4/5 DoT Blight with 100%/110%/120%/130%/140%
