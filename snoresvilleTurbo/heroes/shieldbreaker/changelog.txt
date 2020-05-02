@@ -1,0 +1,38 @@
+----------< Shieldbreaker >----------
+Every spell gives 10 DMG buff to the Shieldbreaker.
+
+Crit effect:
+Now gives 10% DMG buff to the Shieldbreaker.
+Now gives 1 Damage block.
+In addition, the Shieldbreaker heals 10 HP and 7 Stress.
+
+Death's Door:
+Whenever Shieldbreaker enters Death's Door, she gains 1 Damage block.
+
+Pierce:
+Damage | -10/-10/-10/-10/-10% -> 80/165/250/335/420
+
+Puncture:
+Accuracy | 90/95/100/105/110 -> 110/120/130/140/150
+Now marks the enemy for the entire battle.
+
+Adder's Kiss:
+Now can target 3rd and 4th ranks.
+
+Impale:
+Crit chance | -6/-5/-4/-3/-2% -> 8/12/16/20/24%
+
+Expose:
+Now targets all enemies.
+
+Captivate:
+Now has 110/120/130/140/150% chance to stun.
+Now can be used from any rank.
+Now can target 1st and 4th ranks.
+
+Serpent Sway:
+Shieldbreaker receives Riposte that lasts for the duration of the battle.
+No more battle limit.
+
+Riposte effect:
+Now gives 10% DMG buff to the Shieldbreaker.
