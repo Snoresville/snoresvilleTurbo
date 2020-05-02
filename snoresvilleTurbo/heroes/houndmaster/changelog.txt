@@ -1,0 +1,40 @@
+----------< Houndmaster >----------
+Crit effect:
+In addition, the Abomination heals 10 HP and 7 Stress.
+
+Transform:
+No longer gives stress to the Abomination and the party.
+No debuff when transforming back to human.
+No battle limit.
+Transforming to beast now gives:
+ACC | 5/6/7/8/10
+DMG | 20/22/24/26/30%
+Blight resist | 20/22/25/27/30%
+Speed | 1/2/3/4/5
+Abomination gains Riposte for the duration of combat.
+Transforming back to human clears riposte.
+
+Manacles:
+Can now be used at all ranks.
+Now can the 4th rank.
+Damage | -60/-60/-60/-60/-60% -> 30/60/90/120/150%
+
+Beast's Bile:
+Can now be used at all ranks, targeting enemies in all ranks.
+Now has additional 3/3/4/4/5 DoT Blight with 100%/110%/120%/130%/140%
+
+Absolution:
+With the power of friendship, Abomination's health and stress heal increases dependent on party size.
+
+Rake:
+Now targets all enemies.
+DMG buff Tripled.
+
+Rage:
+Now can the 4th rank.
+Accuracy | 85/90/95/100/105 -> 110/120/130/140/150
+Damage | 0/0/0/0/0% -> 45/90/135/180/225%
+
+Slam:
+Accuracy | 80/85/90/95/100 -> 100/110/120/130/140
+Damage | -25/-25/-25/-25/-25% -> 33/66/100/133/166%
