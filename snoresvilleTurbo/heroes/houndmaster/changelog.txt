@@ -1,40 +1,51 @@
 ----------< Houndmaster >----------
 Crit effect:
-In addition, the Abomination heals 10 HP and 7 Stress.
+Crits against marked enemies have their damage increased by 100%
+Two 150% chances of inflicting 10 Blight for 3 rounds.
+Two 140% chances of inflicting 10 Bleed for 3 rounds.
+In addition, the Houndmaster heals 10 HP and 7 Stress.
 
-Transform:
-No longer gives stress to the Abomination and the party.
-No debuff when transforming back to human.
-No battle limit.
-Transforming to beast now gives:
-ACC | 5/6/7/8/10
-DMG | 20/22/24/26/30%
-Blight resist | 20/22/25/27/30%
-Speed | 1/2/3/4/5
-Abomination gains Riposte for the duration of combat.
-Transforming back to human clears riposte.
+Hound's Rush:
+Can now be used from 1st rank.
+Damage vs Marked | 60/70/80/90/100% -> 50/60/70/80/100%
+Crit chance vs Marked increased by 9/10/11/12/13%
+Bleed DoT | 1/1/1/2/2 -> 3/3/4/4/5
+Now has a 100/110/120/130/140% chance to inflict 3/3/4/4/5 Blight for 3 rounds. 
 
-Manacles:
-Can now be used at all ranks.
-Now can the 4th rank.
-Damage | -60/-60/-60/-60/-60% -> 30/60/90/120/150%
+Hound's Harry:
+Damage | -75/-75/-75/-75/-75% -> -50/-50/-50/-50/-50%
+Crit Chance | -5/-4/-3/-2/-1% -> 5/6/7/8/9%
+Now has 1/1/2/3/4 instances of 140% chance to inflict 10 Bleed for 3 rounds.
+Now has 1/1/2/3/4 instances of 150% chance to inflict 10 Blight for 3 rounds.
 
-Beast's Bile:
-Can now be used at all ranks, targeting enemies in all ranks.
-Now has additional 3/3/4/4/5 DoT Blight with 100%/110%/120%/130%/140%
+Whistle:
+Now targets all ranks simultaneously.
+Mark Duration | 3 Rounds -> 1 Battle
+Now has a 150% chance to reduce target's damage by 33%
 
-Absolution:
-With the power of friendship, Abomination's health and stress heal increases dependent on party size.
+Howl:
+Now can be used at all ranks.
+Hound effect now triggers an additional 4 times.
 
-Rake:
-Now targets all enemies.
-DMG buff Tripled.
+Guard Dog:
+Grants 9/10/11/12/13 Dodge to the Houndmaster for the duration of the battle.
+Gives Houndmaster riposte for the duration of the battle.
+In addition, the skill buffs Houndmaster's stats (Buff doesn't list the duration, I'm assuming it's for the entire battle):
+-
+20 Accuracy
+5% Crit Chance
+50% Damage
+3 Speed
+25% Prot
 
-Rage:
-Now can the 4th rank.
-Accuracy | 85/90/95/100/105 -> 110/120/130/140/150
-Damage | 0/0/0/0/0% -> 45/90/135/180/225%
+Lick Wounds:
+With the power of friendship, heal is increased by party size.
+Can now be used from first rank.
 
-Slam:
-Accuracy | 80/85/90/95/100 -> 100/110/120/130/140
-Damage | -25/-25/-25/-25/-25% -> 33/66/100/133/166%
+Blackjack:
+Can now be used at all ranks, and target enemies in any rank.
+Stun Chance | 110/120/130/140/150% -> 125/135/145/155/165%
+Crit Chance | 5/6/7/8/9% -> 20/40/60/80/100%
+
+Riposte Effect:
+Testing to see that Houndmaster's riposte would make the dog eat everyone
