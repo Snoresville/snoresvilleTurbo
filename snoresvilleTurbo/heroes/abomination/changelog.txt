@@ -38,3 +38,7 @@ Damage | 0/0/0/0/0% -> 45/90/135/180/225%
 Slam:
 Accuracy | 80/85/90/95/100 -> 100/110/120/130/140
 Damage | -25/-25/-25/-25/-25% -> 33/66/100/133/166%
+
+Riposte Skill:
+As Human, counters every attack with Level 5 Manacles.
+As Beast, counters every attack with Level 5 Slam.
